@@ -1,0 +1,23 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Wenbo Gao, Yangyang Gao, Shubin Zhou, Jie Dong
+
+This deposit (benchmark structure, gold labels, model outputs, evaluation
+tables, and reproducibility scripts) is licensed under CC BY 4.0 unless a
+file header states otherwise. To view a copy of this license, visit
+https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt the material for any purpose, even
+commercially, with attribution.
+
+--------------------------------------------------------------------------------
+THIRD-PARTY TERMINOLOGY NOTICE
+--------------------------------------------------------------------------------
+
+Candidate concepts in CrossHealthAlign-300 were taken from the Open Access
+Collaborative Consumer Health Vocabulary (OAC CHV) 2022 flat-file release
+(concepts file dated 2011-02-04). Legacy CUIs were not re-verified against a
+current UMLS Metathesaurus release. This deposit does not include the CHV
+source files or a UMLS Metathesaurus release. Users of CrossHealthAlign-300
+are not required to hold a UMLS license. The OAC CHV remains under its own
+license.

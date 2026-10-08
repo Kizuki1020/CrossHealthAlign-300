@@ -1,0 +1,1202 @@
+{
+  "CAI-001": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-002": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-003": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-004": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-005": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-006": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-007": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-008": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-009": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-010": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-011": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-012": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-013": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-014": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-015": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-016": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-017": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-018": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-019": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-020": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-021": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-022": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-023": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-024": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-025": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-026": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-027": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-028": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-029": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-030": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-031": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-032": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-033": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-034": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-035": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-036": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-037": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-038": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-039": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-040": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-041": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-042": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-043": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-044": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-045": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-046": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-047": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-048": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-049": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-050": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-051": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-052": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-053": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-054": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-055": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-056": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-057": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-058": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-059": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-060": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-061": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-062": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-063": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-064": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-065": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-066": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-067": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-068": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-069": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-070": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-071": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-072": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-073": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-074": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-075": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-076": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-077": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-078": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-079": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-080": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-081": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-082": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-083": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-084": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-085": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-086": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-087": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-088": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-089": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-090": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-091": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-092": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-093": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-094": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-095": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-096": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-097": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-098": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-099": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-100": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-101": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-102": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-103": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-104": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-105": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-106": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-107": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-108": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-109": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-110": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-111": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-112": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-113": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-114": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-115": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-116": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-117": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-118": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-119": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-120": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-121": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-122": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-123": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-124": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-125": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-126": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-127": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-128": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-129": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-130": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-131": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-132": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-133": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-134": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-135": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-136": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-137": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-138": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-139": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-140": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-141": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-142": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-143": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-144": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-145": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-146": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-147": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-148": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-149": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-150": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-151": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-152": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-153": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-154": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-155": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-156": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-157": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-158": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-159": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-160": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-161": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-162": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-163": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-164": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-165": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-166": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-167": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-168": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-169": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-170": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-171": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-172": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-173": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-174": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-175": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-176": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-177": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-178": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-179": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-180": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-181": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-182": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-183": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-184": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-185": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-186": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-187": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-188": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-189": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-190": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-191": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-192": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-193": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-194": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-195": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-196": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-197": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-198": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-199": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-200": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-201": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-202": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-203": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-204": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-205": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-206": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-207": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-208": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-209": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-210": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-211": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-212": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-213": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-214": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-215": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-216": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-217": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-218": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-219": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-220": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-221": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-222": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-223": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-224": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-225": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-226": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-227": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-228": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-229": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-230": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-231": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-232": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-233": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-234": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-235": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-236": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-237": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-238": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-239": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-240": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-241": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-242": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-243": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-244": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-245": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-246": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-247": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-248": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-249": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-250": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-251": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-252": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-253": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-254": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-255": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-256": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-257": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-258": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-259": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-260": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-261": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-262": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-263": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-264": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-265": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-266": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-267": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-268": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-269": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-270": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-271": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-272": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-273": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-274": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-275": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-276": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-277": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-278": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-279": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-280": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-281": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-282": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-283": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-284": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-285": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-286": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-287": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-288": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-289": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-290": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-291": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-292": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-293": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-294": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-295": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-296": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-297": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-298": {
+    "gold_label": "NO_JUSTIFIED_EQUIVALENT",
+    "gold_candidate": "NONE"
+  },
+  "CAI-299": {
+    "gold_label": "RELATED_NOT_EQUIVALENT",
+    "gold_candidate": "c1"
+  },
+  "CAI-300": {
+    "gold_label": "EQUIVALENT",
+    "gold_candidate": "c1"
+  }
+}

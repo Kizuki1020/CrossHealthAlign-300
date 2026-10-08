@@ -1,0 +1,88 @@
+section,metric,group,value,ci_low,ci_high,note
+accuracy,accuracy,GPT-5.5,0.3900,,,
+f1,macro_f1_3class,GPT-5.5,0.3132,,,unweighted mean over 3 gold classes; CONTEXT_DEPENDENT excluded
+f1,f1_EQUIVALENT,GPT-5.5,0.7037,,,
+f1,f1_RELATED_NOT_EQUIVALENT,GPT-5.5,0.1980,,,
+f1,f1_NO_JUSTIFIED_EQUIVALENT,GPT-5.5,0.0377,,,
+over_alignment,oa_rate,GPT-5.5,0.3750,,,
+over_alignment,oa_related,GPT-5.5,0.6300,,,
+over_alignment,oa_noequiv,GPT-5.5,0.1200,,,
+rejection,arr,GPT-5.5,0.0200,,,
+calibration,ece_equal_width,GPT-5.5,0.5129,,,
+calibration,mean_confidence,GPT-5.5,0.8939,,,
+calibration,conf_acc_gap,GPT-5.5,+0.5039,,,
+accuracy,accuracy,Claude-Sonnet-4.6,0.3833,,,
+f1,macro_f1_3class,Claude-Sonnet-4.6,0.3380,,,unweighted mean over 3 gold classes; CONTEXT_DEPENDENT excluded
+f1,f1_EQUIVALENT,Claude-Sonnet-4.6,0.7121,,,
+f1,f1_RELATED_NOT_EQUIVALENT,Claude-Sonnet-4.6,0.0575,,,
+f1,f1_NO_JUSTIFIED_EQUIVALENT,Claude-Sonnet-4.6,0.2443,,,
+over_alignment,oa_rate,Claude-Sonnet-4.6,0.3500,,,
+over_alignment,oa_related,Claude-Sonnet-4.6,0.5800,,,
+over_alignment,oa_noequiv,Claude-Sonnet-4.6,0.1200,,,
+rejection,arr,Claude-Sonnet-4.6,0.1600,,,
+calibration,ece_equal_width,Claude-Sonnet-4.6,0.4452,,,
+calibration,mean_confidence,Claude-Sonnet-4.6,0.8285,,,
+calibration,conf_acc_gap,Claude-Sonnet-4.6,+0.4452,,,
+accuracy,accuracy,DeepSeek-V3.2,0.4333,,,
+f1,macro_f1_3class,DeepSeek-V3.2,0.3469,,,unweighted mean over 3 gold classes; CONTEXT_DEPENDENT excluded
+f1,f1_EQUIVALENT,DeepSeek-V3.2,0.5935,,,
+f1,f1_RELATED_NOT_EQUIVALENT,DeepSeek-V3.2,0.0968,,,
+f1,f1_NO_JUSTIFIED_EQUIVALENT,DeepSeek-V3.2,0.3504,,,
+over_alignment,oa_rate,DeepSeek-V3.2,0.6850,,,
+over_alignment,oa_related,DeepSeek-V3.2,0.8000,,,
+over_alignment,oa_noequiv,DeepSeek-V3.2,0.5700,,,
+rejection,arr,DeepSeek-V3.2,0.2400,,,
+calibration,ece_equal_width,DeepSeek-V3.2,0.5263,,,
+calibration,mean_confidence,DeepSeek-V3.2,0.9596,,,
+calibration,conf_acc_gap,DeepSeek-V3.2,+0.5263,,,
+mcnemar,discordant_b,GPT-5.5 vs Claude-Sonnet-4.6,10,,,
+mcnemar,discordant_c,GPT-5.5 vs Claude-Sonnet-4.6,5,,,
+mcnemar,exact_p_two_sided,GPT-5.5 vs Claude-Sonnet-4.6,0.301758,,,
+mcnemar,bonferroni_p,GPT-5.5 vs Claude-Sonnet-4.6,0.905273,,,family size 3
+mcnemar,cohens_h,GPT-5.5 vs Claude-Sonnet-4.6,0.0520,,,
+mcnemar,paired_risk_difference,GPT-5.5 vs Claude-Sonnet-4.6,0.0250,-0.0128,0.0628,
+mcnemar,discordant_b,GPT-5.5 vs DeepSeek-V3.2,1,,,
+mcnemar,discordant_c,GPT-5.5 vs DeepSeek-V3.2,63,,,
+mcnemar,exact_p_two_sided,GPT-5.5 vs DeepSeek-V3.2,0.000000,,,
+mcnemar,bonferroni_p,GPT-5.5 vs DeepSeek-V3.2,0.000000,,,family size 3
+mcnemar,cohens_h,GPT-5.5 vs DeepSeek-V3.2,-0.6317,,,
+mcnemar,paired_risk_difference,GPT-5.5 vs DeepSeek-V3.2,-0.3100,-0.3756,-0.2444,
+mcnemar,discordant_b,Claude-Sonnet-4.6 vs DeepSeek-V3.2,1,,,
+mcnemar,discordant_c,Claude-Sonnet-4.6 vs DeepSeek-V3.2,68,,,
+mcnemar,exact_p_two_sided,Claude-Sonnet-4.6 vs DeepSeek-V3.2,0.000000,,,
+mcnemar,bonferroni_p,Claude-Sonnet-4.6 vs DeepSeek-V3.2,0.000000,,,family size 3
+mcnemar,cohens_h,Claude-Sonnet-4.6 vs DeepSeek-V3.2,-0.6837,,,
+mcnemar,paired_risk_difference,Claude-Sonnet-4.6 vs DeepSeek-V3.2,-0.3350,-0.4019,-0.2681,
+related_vs_noequiv,risk_difference,GPT-5.5,0.5100,0.3959,0.6241,
+related_vs_noequiv,z_test_p,GPT-5.5,0.000000,,,
+related_vs_noequiv,fisher_exact_p,GPT-5.5,0.000000,,,
+related_vs_noequiv,cohens_h,GPT-5.5,1.1263,,,
+related_vs_noequiv,risk_difference,Claude-Sonnet-4.6,0.4600,0.3442,0.5758,
+related_vs_noequiv,z_test_p,Claude-Sonnet-4.6,0.000000,,,
+related_vs_noequiv,fisher_exact_p,Claude-Sonnet-4.6,0.000000,,,
+related_vs_noequiv,cohens_h,Claude-Sonnet-4.6,1.0240,,,
+related_vs_noequiv,risk_difference,DeepSeek-V3.2,0.2300,0.1053,0.3547,
+related_vs_noequiv,z_test_p,DeepSeek-V3.2,0.000463,,,
+related_vs_noequiv,fisher_exact_p,DeepSeek-V3.2,0.000743,,,
+related_vs_noequiv,cohens_h,DeepSeek-V3.2,0.5030,,,
+oa_confidence,overaligned_median,GPT-5.5,0.9600,,,
+oa_confidence,not_overaligned_median,GPT-5.5,0.8800,,,
+oa_confidence,mannwhitney_p,GPT-5.5,0.000000,,,
+oa_confidence,cliffs_delta,GPT-5.5,0.6071,0.4775,0.7239,
+oa_confidence,overaligned_median,Claude-Sonnet-4.6,0.9350,,,
+oa_confidence,not_overaligned_median,Claude-Sonnet-4.6,0.7200,,,
+oa_confidence,mannwhitney_p,Claude-Sonnet-4.6,0.000000,,,
+oa_confidence,cliffs_delta,Claude-Sonnet-4.6,0.7377,0.6413,0.8273,
+oa_confidence,overaligned_median,DeepSeek-V3.2,0.9800,,,
+oa_confidence,not_overaligned_median,DeepSeek-V3.2,0.9000,,,
+oa_confidence,mannwhitney_p,DeepSeek-V3.2,0.000000,,,
+oa_confidence,cliffs_delta,DeepSeek-V3.2,0.5220,0.3654,0.6666,
+oa_uncertainty,proportion,GPT-5.5:overall,0.3750,0.3109,0.4439,75/200
+oa_uncertainty,proportion,GPT-5.5:RELATED_NOT_EQUIVALENT,0.6300,0.5322,0.7182,63/100
+oa_uncertainty,proportion,GPT-5.5:NO_JUSTIFIED_EQUIVALENT,0.1200,0.0700,0.1981,12/100
+oa_uncertainty,proportion,Claude-Sonnet-4.6:overall,0.3500,0.2873,0.4184,70/200
+oa_uncertainty,proportion,Claude-Sonnet-4.6:RELATED_NOT_EQUIVALENT,0.5800,0.4821,0.6720,58/100
+oa_uncertainty,proportion,Claude-Sonnet-4.6:NO_JUSTIFIED_EQUIVALENT,0.1200,0.0700,0.1981,12/100
+oa_uncertainty,proportion,DeepSeek-V3.2:overall,0.6850,0.6176,0.7454,137/200
+oa_uncertainty,proportion,DeepSeek-V3.2:RELATED_NOT_EQUIVALENT,0.8000,0.7112,0.8666,80/100
+oa_uncertainty,proportion,DeepSeek-V3.2:NO_JUSTIFIED_EQUIVALENT,0.5700,0.4722,0.6627,57/100

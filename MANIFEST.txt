@@ -1,0 +1,29 @@
+# MANIFEST — CrossHealthAlign-300 Zenodo bundle
+# Columns: relative_path<TAB>size_bytes
+
+01_Benchmark/CrossHealthAlign-300.json	99521
+01_Benchmark/expert_labels.json	26402
+02_Model_Outputs/README.md	1681
+02_Model_Outputs/claude-sonnet-4-6.json	301777
+02_Model_Outputs/deepseek-v3.2.json	264893
+02_Model_Outputs/gpt-5.5.json	256569
+04_Evaluation/Frozen_Results_v1.csv	5294
+04_Evaluation/README.md	1379
+04_Evaluation/advanced_stats.json	6774
+04_Evaluation/confusion_matrix.csv	2663
+04_Evaluation/evaluation_metrics.json	5791
+04_Evaluation/evaluation_metrics_packaged.json	11293
+04_Evaluation/evaluation_summary.csv	453
+04_Evaluation/evaluation_summary_packaged_4class_macro.csv	837
+05_Reproducibility/build_figures_v3.py	13846
+05_Reproducibility/environment.md	1017
+05_Reproducibility/recalc_metrics.py	22723
+05_Reproducibility/reproduce_results.md	1466
+05_Reproducibility/requirements.txt	142
+05_Reproducibility/run_all.sh	454
+LICENSE.txt	1143
+README.md	4470
+
+# file_count_excluding_manifest	22
+# total_bytes_excluding_manifest	1030588
+# total_mb_excluding_manifest	0.983

@@ -1,0 +1,230 @@
+{
+  "gpt-5.5": {
+    "model": "gpt-5.5",
+    "model_label": "GPT-5.5",
+    "n": 300,
+    "accuracy": 0.39,
+    "per_class": {
+      "EQUIVALENT": {
+        "tp": 95,
+        "fp": 75,
+        "fn": 5,
+        "precision": 0.5588235294117647,
+        "recall": 0.95,
+        "f1": 0.7037037037037037,
+        "support": 100
+      },
+      "RELATED_NOT_EQUIVALENT": {
+        "tp": 20,
+        "fp": 82,
+        "fn": 80,
+        "precision": 0.19607843137254902,
+        "recall": 0.2,
+        "f1": 0.198019801980198,
+        "support": 100
+      },
+      "NO_JUSTIFIED_EQUIVALENT": {
+        "tp": 2,
+        "fp": 4,
+        "fn": 98,
+        "precision": 0.3333333333333333,
+        "recall": 0.02,
+        "f1": 0.03773584905660377,
+        "support": 100
+      }
+    },
+    "macro_f1": 0.31315311824683517,
+    "over_alignment_rate": 0.375,
+    "over_alignment_count": 75,
+    "non_equiv_total": 200,
+    "over_alignment_by_label": {
+      "RELATED_NOT_EQUIVALENT": {
+        "count": 63,
+        "total": 100
+      },
+      "NO_JUSTIFIED_EQUIVALENT": {
+        "count": 12,
+        "total": 100
+      }
+    },
+    "appropriate_rejection_rate": 0.02,
+    "appropriate_rejection_count": 2,
+    "noequiv_total": 100,
+    "ece": 0.5128999999999999,
+    "mean_confidence": 0.8938999999999999,
+    "conf_acc_gap": 0.5038999999999999,
+    "high_conf_errors": 156,
+    "confusion_matrix": {
+      "EQUIVALENT": {
+        "EQUIVALENT": 95,
+        "RELATED_NOT_EQUIVALENT": 0,
+        "NO_JUSTIFIED_EQUIVALENT": 0,
+        "CONTEXT_DEPENDENT": 5
+      },
+      "RELATED_NOT_EQUIVALENT": {
+        "EQUIVALENT": 63,
+        "RELATED_NOT_EQUIVALENT": 20,
+        "NO_JUSTIFIED_EQUIVALENT": 4,
+        "CONTEXT_DEPENDENT": 13
+      },
+      "NO_JUSTIFIED_EQUIVALENT": {
+        "EQUIVALENT": 12,
+        "RELATED_NOT_EQUIVALENT": 82,
+        "NO_JUSTIFIED_EQUIVALENT": 2,
+        "CONTEXT_DEPENDENT": 4
+      }
+    }
+  },
+  "claude-sonnet-4-6": {
+    "model": "claude-sonnet-4-6",
+    "model_label": "Claude-Sonnet-4.6",
+    "n": 300,
+    "accuracy": 0.38333333333333336,
+    "per_class": {
+      "EQUIVALENT": {
+        "tp": 94,
+        "fp": 70,
+        "fn": 6,
+        "precision": 0.573170731707317,
+        "recall": 0.94,
+        "f1": 0.712121212121212,
+        "support": 100
+      },
+      "RELATED_NOT_EQUIVALENT": {
+        "tp": 5,
+        "fp": 69,
+        "fn": 95,
+        "precision": 0.06756756756756757,
+        "recall": 0.05,
+        "f1": 0.05747126436781609,
+        "support": 100
+      },
+      "NO_JUSTIFIED_EQUIVALENT": {
+        "tp": 16,
+        "fp": 15,
+        "fn": 84,
+        "precision": 0.5161290322580645,
+        "recall": 0.16,
+        "f1": 0.24427480916030533,
+        "support": 100
+      }
+    },
+    "macro_f1": 0.3379557618831112,
+    "over_alignment_rate": 0.35,
+    "over_alignment_count": 70,
+    "non_equiv_total": 200,
+    "over_alignment_by_label": {
+      "RELATED_NOT_EQUIVALENT": {
+        "count": 58,
+        "total": 100
+      },
+      "NO_JUSTIFIED_EQUIVALENT": {
+        "count": 12,
+        "total": 100
+      }
+    },
+    "appropriate_rejection_rate": 0.16,
+    "appropriate_rejection_count": 16,
+    "noequiv_total": 100,
+    "ece": 0.44520000000000004,
+    "mean_confidence": 0.8285333333333333,
+    "conf_acc_gap": 0.4452,
+    "high_conf_errors": 106,
+    "confusion_matrix": {
+      "EQUIVALENT": {
+        "EQUIVALENT": 94,
+        "RELATED_NOT_EQUIVALENT": 1,
+        "NO_JUSTIFIED_EQUIVALENT": 1,
+        "CONTEXT_DEPENDENT": 4
+      },
+      "RELATED_NOT_EQUIVALENT": {
+        "EQUIVALENT": 58,
+        "RELATED_NOT_EQUIVALENT": 5,
+        "NO_JUSTIFIED_EQUIVALENT": 14,
+        "CONTEXT_DEPENDENT": 23
+      },
+      "NO_JUSTIFIED_EQUIVALENT": {
+        "EQUIVALENT": 12,
+        "RELATED_NOT_EQUIVALENT": 68,
+        "NO_JUSTIFIED_EQUIVALENT": 16,
+        "CONTEXT_DEPENDENT": 4
+      }
+    }
+  },
+  "deepseek-v3.2": {
+    "model": "deepseek-v3.2",
+    "model_label": "DeepSeek-V3.2",
+    "n": 300,
+    "accuracy": 0.43333333333333335,
+    "per_class": {
+      "EQUIVALENT": {
+        "tp": 100,
+        "fp": 137,
+        "fn": 0,
+        "precision": 0.4219409282700422,
+        "recall": 1.0,
+        "f1": 0.5934718100890208,
+        "support": 100
+      },
+      "RELATED_NOT_EQUIVALENT": {
+        "tp": 6,
+        "fp": 18,
+        "fn": 94,
+        "precision": 0.25,
+        "recall": 0.06,
+        "f1": 0.0967741935483871,
+        "support": 100
+      },
+      "NO_JUSTIFIED_EQUIVALENT": {
+        "tp": 24,
+        "fp": 13,
+        "fn": 76,
+        "precision": 0.6486486486486487,
+        "recall": 0.24,
+        "f1": 0.3503649635036496,
+        "support": 100
+      }
+    },
+    "macro_f1": 0.3468703223803525,
+    "over_alignment_rate": 0.685,
+    "over_alignment_count": 137,
+    "non_equiv_total": 200,
+    "over_alignment_by_label": {
+      "RELATED_NOT_EQUIVALENT": {
+        "count": 80,
+        "total": 100
+      },
+      "NO_JUSTIFIED_EQUIVALENT": {
+        "count": 57,
+        "total": 100
+      }
+    },
+    "appropriate_rejection_rate": 0.24,
+    "appropriate_rejection_count": 24,
+    "noequiv_total": 100,
+    "ece": 0.5263000000000001,
+    "mean_confidence": 0.9596333333333333,
+    "conf_acc_gap": 0.5263,
+    "high_conf_errors": 163,
+    "confusion_matrix": {
+      "EQUIVALENT": {
+        "EQUIVALENT": 100,
+        "RELATED_NOT_EQUIVALENT": 0,
+        "NO_JUSTIFIED_EQUIVALENT": 0,
+        "CONTEXT_DEPENDENT": 0
+      },
+      "RELATED_NOT_EQUIVALENT": {
+        "EQUIVALENT": 80,
+        "RELATED_NOT_EQUIVALENT": 6,
+        "NO_JUSTIFIED_EQUIVALENT": 13,
+        "CONTEXT_DEPENDENT": 1
+      },
+      "NO_JUSTIFIED_EQUIVALENT": {
+        "EQUIVALENT": 57,
+        "RELATED_NOT_EQUIVALENT": 18,
+        "NO_JUSTIFIED_EQUIVALENT": 24,
+        "CONTEXT_DEPENDENT": 1
+      }
+    }
+  }
+}

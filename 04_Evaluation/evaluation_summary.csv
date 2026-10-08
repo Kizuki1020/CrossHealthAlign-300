@@ -1,0 +1,4 @@
+model,accuracy,macro_f1,f1_EQUIVALENT,f1_RELATED_NOT_EQUIVALENT,f1_NO_JUSTIFIED_EQUIVALENT,over_alignment_rate,appropriate_rejection_rate,ece,mean_confidence,conf_acc_gap,high_conf_errors
+GPT-5.5,0.3900,0.3132,0.7037,0.1980,0.0377,0.3750,0.0200,0.5129,0.8939,+0.5039,156
+Claude-Sonnet-4.6,0.3833,0.3380,0.7121,0.0575,0.2443,0.3500,0.1600,0.4452,0.8285,+0.4452,106
+DeepSeek-V3.2,0.4333,0.3469,0.5935,0.0968,0.3504,0.6850,0.2400,0.5263,0.9596,+0.5263,163
